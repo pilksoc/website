@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "OpenTTD Small Caps";
+  src: url("./assets/fonts/openttd-ttf/OpenTTD-SmallCaps.woff");
+}
+@font-face {
+  font-family: "OpenTTD Small";
+  src: url("./assets/fonts/openttd-ttf/OpenTTD-Small.woff");
+}
+@font-face {
+  font-family: "OpenTTD Serif";
+  src: url("./assets/fonts/openttd-ttf/OpenTTD-Serif.woff");
+}
+@font-face {
+  font-family: "OpenTTD Sans";
+  src: url("./assets/fonts/openttd-ttf/OpenTTD-Sans.woff");
+}
+@font-face {
+  font-family: "OpenTTD Mono";
+  src: url("./assets/fonts/openttd-ttf/OpenTTD-Mono.woff");
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #000;
+  }
+}
