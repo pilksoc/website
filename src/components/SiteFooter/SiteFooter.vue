@@ -1,7 +1,3 @@
-<script setup lang="ts">
-import { RouterLink } from "vue-router";
-</script>
-
 <template>
   <footer class="footer">
     <div class="full-width-container columns">
