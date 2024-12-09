@@ -19,8 +19,6 @@
   src: url("./assets/fonts/openttd-ttf/OpenTTD-Mono.woff");
 }
 
-@media (prefers-color-scheme: dark) {
-  body {
-    background: #000;
-  }
+body {
+  margin: 0;
 }
